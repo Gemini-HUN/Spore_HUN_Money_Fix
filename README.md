@@ -1,5 +1,5 @@
 # Spore_HUN_Money_Fix
-Solution the hard to read money
+Solution the hard to read money.
 
 Your game needs to be in English or the mod doesn't work! This mod work in Hungarian language!
 
