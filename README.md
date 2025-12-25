@@ -10,3 +10,5 @@ If you need help for fix money in your localization contact me.
 
 # After
 <img width="759" height="379" alt="jgfkgfg" src="https://github.com/user-attachments/assets/d9cd059e-d576-4901-8308-678c2fc66689" />
+
+Mod tested by Roschach96
