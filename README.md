@@ -1,4 +1,8 @@
 # Spore_HUN_Money_Fix
 Solution the hard to read money
 
+# Before
 <img width="426" height="90" alt="kgkkfgtt" src="https://github.com/user-attachments/assets/cb82197a-720c-46cb-9745-87ce76d18aef" />
+
+# After
+<img width="759" height="379" alt="jgfkgfg" src="https://github.com/user-attachments/assets/d9cd059e-d576-4901-8308-678c2fc66689" />
