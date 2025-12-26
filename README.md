@@ -3,6 +3,8 @@ Solution of the hard to read money.
 
 This mod add the Hungarian texts and UIs to en-us locale. Yes this fix the money too.
 
+Some online features will be English because of the game use en-us locale.
+
 If you need help for fix money in your localization contact me.
 
 # Before
