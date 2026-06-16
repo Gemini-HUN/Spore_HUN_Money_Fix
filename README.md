@@ -1,4 +1,6 @@
 # Spore_HUN_Money_Fix
+* Total Downloads: ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/Spore_HUN_Money_Fix?style=flat-square)
+
 Solution of the hard to read money.
 
 Required en_us localization! This mod work in Hungarian language!
