@@ -9,6 +9,10 @@ This mod add the Hungarian texts and UIs to en-us locale. Yes this fix the money
 
 Some online features will be English because of the game use en-us locale.
 
+### Not compatible with
+* [Bot_parts_global_localization]
+
+
 If you need help for fix money in your localization contact me.
 
 ## Before
@@ -16,5 +20,6 @@ If you need help for fix money in your localization contact me.
 
 ## After
 <img width="759" height="379" alt="jgfkgfg" src="https://github.com/user-attachments/assets/d9cd059e-d576-4901-8308-678c2fc66689" />
+
 
 ### Mod tested by Roschach96
