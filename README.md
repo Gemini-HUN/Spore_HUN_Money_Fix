@@ -10,7 +10,8 @@ This mod add the Hungarian texts and UIs to en-us locale. Yes this fix the money
 Some online features will be English because of the game use en-us locale.
 
 ### Not compatible with
-* [Bot_parts_global_localization]
+* [Bot_parts_global_localization](https://github.com/Gemini-HUN/Bot_parts_global_localization)
+* other localization mods
 
 
 If you need help for fix money in your localization contact me.
