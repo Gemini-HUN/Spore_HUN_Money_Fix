@@ -14,7 +14,7 @@ Solution of the hard to read money.
 This mod works by using the en-us locale internally. Hungarian localization mods that only modify the Hungarian locale will not be loaded by the game while using this fix.
 
 ## Not compatible with
-* [Bot_parts_global_localization](https://github.com/Gemini-HUN/Bot_parts_global_localization) — already integrated into this mod.
+* [Bot_parts_global_localization](https://github.com/Gemini-HUN/Bot_parts_global_localization) - already integrated into this mod.
 * [Spore_HUN_Locale_Fix](https://github.com/Gemini-HUN/Spore_HUN_Locale_Fix) - already integrated into this mod.
 * Other mods that modify the en-us locale.
 
