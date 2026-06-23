@@ -10,6 +10,9 @@ Required en_us localization!
 * This fix also improves money display formatting.
 * Some online features will remain in English because the game uses the en-us locale.
 
+## Important
+This mod works by using the en-us locale internally. Hungraian localization mods that only modify the Hungarian locale will not be loaded by the game while using this fix.
+
 ### Not compatible with
 * [Bot_parts_global_localization](https://github.com/Gemini-HUN/Bot_parts_global_localization)
 * other localization mods
