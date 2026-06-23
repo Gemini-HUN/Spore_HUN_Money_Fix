@@ -3,7 +3,7 @@
 
 Solution of the hard to read money.
 
-##Required en_us localization!
+## Required en_us localization!
 
 * Works in Hungarian language using the en-us locale internally.
 * Adds Hungarian texts and UI elements to the en-us locale.
