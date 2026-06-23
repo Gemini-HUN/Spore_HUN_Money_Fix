@@ -15,7 +15,7 @@ This mod works by using the en-us locale internally. Hungarian localization mods
 
 ## Not compatible with
 * [Bot_parts_global_localization](https://github.com/Gemini-HUN/Bot_parts_global_localization) — already integrated into this mod.
-* [Spore_HUN_Locale_Fix]
+* [Spore_HUN_Locale_Fix](https://github.com/Gemini-HUN/Spore_HUN_Locale_Fix) - already integrated into this mod.
 * Other mods that modify the en-us locale.
 
 
