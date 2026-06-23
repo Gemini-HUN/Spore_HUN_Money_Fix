@@ -1,5 +1,5 @@
 # Spore_HUN_Money_Fix
-### Total Downloads: ![Downloads](https://badgen.net/github/assets-dl/Gemini-HUN/Spore_HUN_Money_Fix?style=flat-square&color=d81b60&icon=github)
+## Total Downloads: ![Downloads](https://shieldcn.dev/github/downloads/Gemini-HUN/Spore_HUN_Money_Fix?style=flat-square&color=d81b60&logo=github)
 
 Solution of the hard to read money.
 
