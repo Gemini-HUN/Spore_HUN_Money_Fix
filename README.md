@@ -3,11 +3,12 @@
 
 Solution of the hard to read money.
 
-Required en_us localization! This mod work in Hungarian language!
+Required en_us localization!
 
-This mod add the Hungarian texts and UIs to en-us locale. Yes this fix the money too.
-
-Some online features will be English because of the game use en-us locale.
+* Works in Hungarian language using the en-us locale internally.
+* Adds Hungarian texts and UI elements to the en-us locale.
+* This fix also improves money display formatting.
+* Some online features will remain in English because the game uses the en-us locale.
 
 ### Not compatible with
 * [Bot_parts_global_localization](https://github.com/Gemini-HUN/Bot_parts_global_localization)
