@@ -11,14 +11,14 @@ Solution of the hard to read money.
 * Some online features will remain in English because the game uses the en-us locale.
 
 ## Important
-This mod works by using the en-us locale internally. Hungraian localization mods that only modify the Hungarian locale will not be loaded by the game while using this fix.
+This mod works by using the en-us locale internally. Hungarian localization mods that only modify the Hungarian locale will not be loaded by the game while using this fix.
 
 ## Not compatible with
 * [Bot_parts_global_localization](https://github.com/Gemini-HUN/Bot_parts_global_localization) — already integrated into this mod.
 * Other mods that modify the en-us locale.
 
 
-If you need help for fix money in your localization contact me.
+If you need help fixing money display issues in your localization, contact me.
 
 ## Before
 <img width="426" height="90" alt="kgkkfgtt" src="https://github.com/user-attachments/assets/cb82197a-720c-46cb-9745-87ce76d18aef" />
