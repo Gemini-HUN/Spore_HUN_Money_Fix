@@ -3,6 +3,9 @@
 
 Solution of the hard to read money.
 
+## How to install mods?
+I recommend [Spore ModAPI Launcher Kit](https://launcherkit.sporecommunity.com/) for installing this and any other Spore mods. Please read the installation instructions first.
+
 ## Required en_us localization!
 
 * Works in Hungarian language using the en-us locale internally.
